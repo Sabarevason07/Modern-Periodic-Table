@@ -1,4 +1,4 @@
-# Modern-Periodic-Table
+# Modern-Periodic-Table using java
 
 Welcome to the Periodic Table Explorer! This Java console-based interactive program serves as an educational tool for exploring the modern periodic table of elements. The program allows users to search for elements by their atomic number, providing detailed information about each element's properties.
 
